@@ -1,0 +1,46 @@
+.company-container{
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.company-title {
+    width: 67.803px;
+    height: 16.578px;
+    color: #EDEDED;
+    font-family: "Proxima Nova";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.16px;
+    padding-top: 13px;
+    padding-left: 26px;
+}
+
+.company-filter {
+    display: flex;
+    flex-direction: column;
+    padding-top: 13px;
+    padding-left: 26px;
+}
+.input-container{
+    padding-top:13px;
+}
+
+.company-checkbox {
+    width: 17.688px;
+    height: 14.92px;
+    border-radius: 3px;
+    border: 1px solid #EDEDED;
+    outline: none;
+}
+
+.company-label {
+    color: #EDEDED;
+    font-family: "Proxima Nova";
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    padding-left: 15px;
+}
